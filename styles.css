@@ -55,6 +55,7 @@ h1 {
 }
 
 #profile {
+    position: relative;
     display: flex;
     align-items: center;
 }
@@ -83,7 +84,6 @@ h1 {
 }
 
 #share-button {
-    position: relative;
     border: none;
     outline: none;
     padding: 7px;
@@ -108,7 +108,7 @@ h1 {
     border-radius: 10px;
     padding: 15px 20px;
     bottom: 50px;
-    right: -108px;
+    right: -88px;
 }
 
 #share-box::after {
